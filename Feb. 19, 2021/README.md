@@ -10,7 +10,7 @@ All the blocks have the same alignment (e.g., east-west). Importantly, whenever 
 
 (Note: This problem is not asking for the average height of the tower after any unbalanced blocks have fallen off. It is asking for the average number of blocks added in order to make the tower collapse in the first place.)
 
-#Riddler Express
+# Riddler Express
 
 https://fivethirtyeight.com/features/can-you-win-riddler-jenga/
 
@@ -27,4 +27,4 @@ This week marks the third of four CrossProduct™ puzzles. This time, there are 
 |   |   |   | 126 |
 |183,708|245,760|117,600|  |
 
-Can you find all seven three-digit numbers and complete the table?
+**Can you find all seven three-digit numbers and complete the table?**

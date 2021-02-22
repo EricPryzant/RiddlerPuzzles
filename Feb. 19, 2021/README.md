@@ -1,4 +1,4 @@
-#Riddler Classic
+# Riddler Classic
 
 https://fivethirtyeight.com/features/can-you-win-riddler-jenga/
 
